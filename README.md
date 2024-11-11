@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=6C48C5&height=250&section=header&text=NAHYEON%20KIM&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=6C48C5&height=250&section=header&text=NAHYEON%20KIM&fontSize=90&fontColor=D4BEE4)
 
 <h3 align="center">🚀 Skills</h3>
 <div align="center">
@@ -15,5 +15,5 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=Slice&color=C68FE6)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Slice&color=9B7EBD)
 
